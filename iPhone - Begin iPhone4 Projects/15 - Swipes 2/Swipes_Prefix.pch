@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'Swipes' target in the 'Swipes' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-    #import <UIKit/UIKit.h>
-#endif
